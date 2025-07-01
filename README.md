@@ -24,5 +24,7 @@ Tips for printing with this cheap-ass printer:
 * It sometimes has trouble with shiny stock, but actually does handle it.  Mine would normally spit out 1-2 labels when loading & calibrating.  Sometimes it would spit out 10 or go on forever.  Just give it a little on/off timeout, move the labels around, etc.  It'll figure it out eventually.
 * If the wasted label at the beginning of the roll bugs you, I found a hack.  Say you have only 4 labels left on your roll.  Print out 5 copies of your sticker.  It'll pause because it's out of labels.  Take your label sheet out, reverse it so that the unprinted label at the beginning is now in the machine.  Make sure your first printed label is half in / half out of the machine.  Close the lid.  It'll automatically feed to the end of the current label and immediately start printing on the next (unprinted) label, without doing any calibration sequence.  I know, no waste is so satisfying, right?
 
-
+Apps for the printer:
+* I'm using OffNova's app, 4Barcode.
+* Chloe uses OpenLabel with the TSPL protocol.
 
