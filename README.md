@@ -7,14 +7,14 @@ They are made to be printed using cheap-ass thermal printers, and are great with
 
 Links to our cheap-ass thermal printer of choice, found by Chloe Madison [@clomads](https://github.com/clomads/).  We got "Like New" ones that were on sale for $10, which is the first link.  There were a limited number available, and we convinced so many people at Teardown 2025 to get them that they sold out.  The second link is for "New" ones and it looks like the normal price for these is $20.  It's probably still a good deal because not many printers that size will actually accommodate up to 3" labels (most stop at 2").  Though honestly, you can do a lot with 2" stock.
 * [$10 Like New OffNova Label Printer](https://www.amazon.com/dp/B0CKYX4FX5/ref=cm_sw_r_as_gl_api_gl_i_C6WSFXYAM523DG64JZHY?linkCode=ml1&tag=vdbx-qr-20&linkId=94e6a0a12e4bc0de632093cd8a7b5cc5)
-* [$20 New OffNova Label Printer](https://www.amazon.com/dp/B0DQKPC5BX/ref=cm_sw_r_as_gl_api_gl_i_C6WSFXYAM523DG64JZHY?linkCode=ml1&tag=vdbx-qr-20&linkId=94e6a0a12e4bc0de632093cd8a7b5cc5)
+* [$20 New OffNova Label Printer](https://www.amazon.com/dp/B0DQKPC5BX/ref=cm_sw_r_as_gl_api_gl_i_M9MB3QGC56B71RG7M8GA?linkCode=ml1&tag=vdbx-qr-20&linkId=0fc766468aa95c016433a49438c1b1f6)
 
 
 Fun holo and glittery label stock:
-* [2" Round Teal Aurora Holo](https://www.amazon.com/dp/B0DQPXH1VK/ref=cm_sw_r_as_gl_api_gl_i_C6WSFXYAM523DG64JZHY?linkCode=ml1&tag=vdbx-qr-20&linkId=94e6a0a12e4bc0de632093cd8a7b5cc5)
-* [2" Round Pink Holo](https://www.amazon.com/dp/B0DHCQ72FY/ref=cm_sw_r_as_gl_api_gl_i_C6WSFXYAM523DG64JZHY?linkCode=ml1&tag=vdbx-qr-20&linkId=94e6a0a12e4bc0de632093cd8a7b5cc5)
-* [2" Round Silver Glitter](https://www.amazon.com/dp/B0DPFKJ8M9/ref=cm_sw_r_as_gl_api_gl_i_C6WSFXYAM523DG64JZHY?linkCode=ml1&tag=vdbx-qr-20&linkId=94e6a0a12e4bc0de632093cd8a7b5cc5)
-* [2.25" Rectangle Holo](https://www.amazon.com/dp/B0C9ZBQ2BS/ref=cm_sw_r_as_gl_api_gl_i_C6WSFXYAM523DG64JZHY?linkCode=ml1&tag=vdbx-qr-20&linkId=94e6a0a12e4bc0de632093cd8a7b5cc5)
+* [2" Round Teal Aurora Holo](https://www.amazon.com/dp/B0DQPXH1VK)
+* [2" Round Pink Holo](https://www.amazon.com/dp/B0DHCQ72FY)
+* [2" Round Silver Glitter](https://www.amazon.com/dp/B0DPFKJ8M9)
+* [2.25" Rectangle Holo](https://www.amazon.com/dp/B0C9ZBQ2BS)
 
 
 Tips for printing with this cheap-ass printer:
