@@ -3,6 +3,8 @@ Stickers play an important role in resistance and activism.  I hope this will en
 
 They are made to be printed using cheap-ass thermal printers, and are great with holographic or glittery sticker material.
 
+<img src="https://github.com/user-attachments/assets/6541d0f1-6304-4993-82d9-91ae36810ff6" width="30%" height="30%" /><img src="https://github.com/user-attachments/assets/9bd0e61b-3857-4952-a8c4-6b66c124f73a" width="30%" height="30%" /><img src="https://github.com/user-attachments/assets/10eebe30-84f2-4073-bb4a-ee3956b85f8e" width="30%" height="30%" />
+
 Links to our cheap-ass thermal printer of choice, found by Chloe Madison @clomads.  We got "Like New" ones that were on sale for $10, which is the first link.  There were a limited number available, and we convinced so many people at Teardown 2025 to get them that they sold out.  The second link is for "New" ones and it looks like the normal price for these is $20.  It's probably still a good deal because not many printers that size will actually accommodate up to 3" labels (most stop at 2").  Though honestly, you can do a lot with 2" stock.
 * https://www.amazon.com/dp/B0CKYX4FX5
 * https://www.amazon.com/dp/B0DQKPC5BX
