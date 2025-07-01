@@ -11,11 +11,12 @@ Links to our cheap-ass thermal printer of choice, found by Chloe Madison [@cloma
 
 
 Fun holo and glittery label stock:
-* [2" Round Teal Aurora Holo](https://www.amazon.com/dp/B0DQPXH1VK)
-* [2" Round Pink Holo](https://www.amazon.com/dp/B0DHCQ72FY)
-* [2" Round Silver Glitter](https://www.amazon.com/dp/B0DPFKJ8M9)
-* [2.25" Rectangle Holo](https://www.amazon.com/dp/B0C9ZBQ2BS)
+* [2" Round Teal Aurora Holo](https://www.amazon.com/dp/B0DQPXH1VK/ref=nosim?tag=clomads27-20)
+* [2" Round Pink Holo](https://www.amazon.com/dp/B0DHCQ72FY/ref=nosim?tag=clomads27-20)
+* [2" Round Silver Glitter](https://www.amazon.com/dp/B0DPFKJ8M9/ref=nosim?tag=clomads27-20)
+* [2.25" Rectangle Holo](https://www.amazon.com/dp/B0C9ZBQ2BS/ref=nosim?tag=clomads27-20)
 
+http://www.amazon.com/dp/ASIN/ref=nosim?tag=YOURASSOCIATEID
 
 Tips for printing with this cheap-ass printer:
 * Only tiny spools fit within the printer.  Cool holo sticker stock does not come on tiny spools, so you will need to re-spool them onto a smaller spool, or roll them very tightly yourself.  [Chloe](https://github.com/clomads/) made a 3D printable spool that takes a typical 1/4" hex drive so you can re-spool with a power tool, files in the Spools folder.
